@@ -1,3 +1,9 @@
+## 0.9.1 (2025-01-10)
+
+### Fixes
+
+- Release locked UTXOs if contract formation, renewal, or refresh fails
+
 ## 0.9.0 (2024-12-19)
 
 ### Breaking Changes
